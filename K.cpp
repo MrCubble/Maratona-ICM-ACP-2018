@@ -39,5 +39,5 @@ int main(){
         raiz.insert(i);
     }
     printf("%d\n",res);
-    return 0;
+    return 0; 
 }
