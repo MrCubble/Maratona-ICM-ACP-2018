@@ -60,5 +60,5 @@ int main(){
     res = gauss(mat, res);
     for(int i=0;i<n;i++) printf("%c",res[n-i-1]?'T':'F');
     printf("\n");
-    return 0;
+    return 0; 
 }
