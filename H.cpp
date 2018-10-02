@@ -198,5 +198,5 @@ int main(){
             printf("%d\n",query(a, b));
         }
     }
-    return 0;
+    return 0; 
 }
