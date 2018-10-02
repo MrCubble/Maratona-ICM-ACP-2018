@@ -15,7 +15,7 @@ int main()
         {
             if(temp[j] == b[j]) ki=true;
         }
-        if(!ki) ans++;
+        if(!ki) ans++; 
     }
     printf("%d\n", ans);
 }
