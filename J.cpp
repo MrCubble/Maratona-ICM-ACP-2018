@@ -36,5 +36,5 @@ int main()
             if(masc == ((1<<k)-1)) res = min(res, pd[j][masc]);
         }
     }
-    printf("%.5lf\n", res);
+    printf("%.5lf\n", res); 
 }
