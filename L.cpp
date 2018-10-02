@@ -150,6 +150,6 @@ int main()
     update(a,b,1);
     printf("%d\n",query(c,d));
     update(a,b,-1);
-  }
+  } 
   return 0;
 }
