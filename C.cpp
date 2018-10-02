@@ -2,7 +2,7 @@
 using namespace std;
 typedef unsigned long long llu;
 struct point{
-    llu v, id;
+    llu v,id;
 } p1[100010], p2[100010];
 llu conta(vector <llu> &v){
     if(v.size()==1) return 0;
